@@ -16,7 +16,7 @@ At your target directory, execute the following:
 ```bash
 conda create -n trading python=3.9 -y
 conda activate trading
-git clone https://github.com/tpmmthomas/binance-copy-trade-bot.git
+
 cd binance-copy-trade-bot
 pip install -r requirements.txt
 ```
